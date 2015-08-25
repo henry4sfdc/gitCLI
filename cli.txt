@@ -1,3 +1,7 @@
 even monkey can do it
 add index from gitCLI2
+
 add change from gitCLI1 to test conflict
+
+add change from gitCLI2 to test conflict
+
